@@ -15,6 +15,12 @@ ActiveRecord::Schema.define(version: 20170712221500) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "trail_heads", force: :cascade do |t|
+    t.string "lat"
+    t.string "long"
+    t.string "name"
+  end
+
   create_table "trails", force: :cascade do |t|
     t.string "name"
     t.string "description"
