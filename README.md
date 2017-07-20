@@ -1,24 +1,7 @@
-# README
+# Trail Up! The social hiking app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Inline-style:
+![](https://github.com/MrAaronOlsen/trail-up/app/assets/images/readme_picture_landing.jpg)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Trail Up was built with the intention of connecting like-minded people through
+Trail Up allows users to browse from thousands of trails across North America and create hiking events
